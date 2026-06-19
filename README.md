@@ -38,9 +38,3 @@ A multi-step SQL query built using CTEs (Common Table Expressions):
 
 ![Output 2](image2.png)
 
----
-
-## Repository
-
-- **Owner:** [DivyaTejaK](https://github.com/DivyaTejaK)
-- **File:** `file_1` (SQL)
